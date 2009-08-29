@@ -15,7 +15,7 @@ The following table provides a list of the protocols supported by each product w
 <tr><td>HE303</td><td>Indoor P.I.R</td><td>Advanced</td></tr>
 </table>
 
-== Receivers
+== Receivers ==
 
 <table>
 <tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
@@ -24,3 +24,16 @@ The following table provides a list of the protocols supported by each product w
 
 
 = Domia Lite Products =
+
+== Transmitters ==
+
+<table>
+<tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
+</table>
+
+== Receivers ==
+
+
+<table>
+<tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
+</table>
