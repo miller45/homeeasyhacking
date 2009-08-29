@@ -1,10 +1,10 @@
-An overview of the different protocols used and the differences between them
+#summary An overview of the different protocols used and the differences between them
 
 = Introduction =
 
 As the range of home easy devices has matured, so have the protocols which are used to communicate between devices.  The following gives an overview of the different protocols
 
-= Manual Protocol =
+= Simple Protocol =
 The simple protocol is common with the earlier equipment and is also the most likely to be compatible across brands.  The best documentation available for this protocol at the moment is the "Domia Lite Protocol" specification.
 == Device Addressing ==
 The simple protocol has a fixed list of group (A-P) and device codes (0-15).  It is common for these devices to have a rotary dial to select at least the group code.
@@ -12,10 +12,10 @@ The simple protocol has a fixed list of group (A-P) and device codes (0-15).  It
 TODO : Document Encoding
 == Variations ==
 
-= Automatic Protocol = 
-The automatic protocol is less well documented than the manual protocol, and also less likely to work between brands.  
+= Advanced Protocol = 
+The Advanced protocol is less well documented than the simple protocol, and also less likely to work between brands.  
 == Device Addressing ==
-Unlike the manual protocol, each device is assigned a larger identification code.  
+Unlike the simple protocol, each device is assigned a larger identification code.  
 == Encoding ==
 TODO : Document Encoding
 
