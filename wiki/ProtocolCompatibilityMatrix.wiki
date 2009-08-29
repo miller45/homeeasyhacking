@@ -27,13 +27,13 @@ The following table provides a list of the protocols supported by each product w
 
 == Transmitters ==
 
-<table>
+<table border="1">
 <tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
 </table>
 
 == Receivers ==
 
 
-<table>
+<table border="1">
 <tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
 </table>
