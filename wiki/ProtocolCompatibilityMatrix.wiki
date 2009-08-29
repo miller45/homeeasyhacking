@@ -13,7 +13,6 @@ The following table provides a list of the protocols supported by each product w
 <tr><td>HE200</td><td>Timer Remote</td><td>Simple</td></tr>
 <tr><td>HE300</td><td>On/Off Remote</td><td>Advanced</td></tr>
 <tr><td>HE303</td><td>Indoor P.I.R</td><td>Advanced</td></tr>
-<tr><td>
 </table>
 
 == Receivers
