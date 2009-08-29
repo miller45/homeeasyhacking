@@ -24,3 +24,4 @@ TODO : Document Encoding
  * http://www.byebyestandby.com/forum/viewtopic.php?f=6&t=10&sid=616e3250e60b1792a3a31baeafc6c663
  * http://www.arduino.cc/playground/Code/HomeEasy
  * http://www.xplmonkey.com/homeeasy.html
+ * http://www.thegiblins.com/projects/arduino_homeeasy_receiver_manual0.php
