@@ -29,6 +29,7 @@ The following table provides a list of the protocols supported by each product w
 
 <table border="1">
 <tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
+<tr><td>DLMS</td><td>Motion Sensor</td><td>Simple</td></tr>
 </table>
 
 == Receivers ==
