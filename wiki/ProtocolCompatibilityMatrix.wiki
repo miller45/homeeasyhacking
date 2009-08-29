@@ -8,7 +8,7 @@ The following table provides a list of the protocols supported by each product w
 
 == Transmitters ==
 
-<table>
+<table border="1">
 <tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
 <tr><td>HE200</td><td>Timer Remote</td><td>Simple</td></tr>
 <tr><td>HE300</td><td>On/Off Remote</td><td>Advanced</td></tr>
@@ -17,7 +17,7 @@ The following table provides a list of the protocols supported by each product w
 
 == Receivers ==
 
-<table>
+<table border="1">
 <tr><th>Product</th><th>Product Name</th><th>Protocols Supported</th></tr>
 <tr><td>HE302</td><td>Remote Control Socket</td><td>Simple,Advanced</td></tr>
 </table>
