@@ -1,0 +1,12 @@
+#summary A list of compatible components which can be used in homebrew projects
+
+= Introduction =
+
+In order to build hardware to interact with the Home Easy devices, you will need suitable 433Mhz RF Transmitters / Receivers.  The following are items which have found to be compatible :
+
+== Transmitters ==
+ * Quasar [http://uk.rs-online.com/web/search/searchBrowseAction.html?method=getProduct&R=6172072 QAM-TX1]
+ * AM-RT4 ([http://www.maplin.co.uk/module.aspx?moduleno=22965 Maplins VY48])
+== Receivers ==
+ * Quasar [http://uk.rs-online.com/web/search/searchBrowseAction.html?method=getProduct&R=6172050 QAM-RX4]
+ * AM-HRR3 ([http://www.maplin.co.uk/module.aspx?moduleno=22965 Maplins VY48]) 
