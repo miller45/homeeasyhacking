@@ -1,0 +1,1 @@
+Please visit the full [Home Easy Hacking Wiki](http://homeeasyhacking.wikia.com)
